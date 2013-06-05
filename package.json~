@@ -1,0 +1,32 @@
+{
+  "name": "diet-cola",
+  "version": "0.0.1",
+  "description": "Project diet-cola -Top Secret weightloss program!",
+  "main": "server.js",
+  "directories": {
+    "test": "test"
+  },
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1",
+    "start": "node server.js"
+  },
+  "dependencies":{
+    "connect": "*",
+  },
+  "repository": {
+    "type": "git",
+    "url": "https://github.com/BaconFlavoredGames/angular-seed.git"
+  },
+  "keywords": [
+    "bacon",
+    "flavored",
+    "games"
+  ],
+  "author": "Zachary Routh, Kendell Joseph",
+  "license": "BSD",
+  "readmeFilename": "README.md",
+  "gitHead": "8111a5d6042a45a0fe2dc1b2fa5af337c2f139e3",
+  "bugs": {
+    "url": "https://github.com/BaconFlavoredGames/angular-seed/issues"
+  }
+}

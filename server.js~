@@ -1,0 +1,85 @@
+var projectName = 'Diet Cola';
+var currentTime = new Date();
+var versionNumber = "0.0.1";
+
+console.log('Project ' + projectName + ' Server Started on ' + currentTime + ' ' + versionNumber);
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+/*
+var socketIo = require("socket.io")
+  , connect = require("connect")
+  , port = 4005
+  , appFolder = 'app';
+
+var server = connect()
+  .use(connect.static(appFolder))
+  .use(function (request, response) {
+    response.statusCode = 403;
+    response.end("403: You have reached the end of the Internet.");
+
+  })
+  .listen(port);
+
+
+console.log('*** JUNCTION SERVER STARTED'
+  ,'| PORT:', port
+  ,'| RESOURCE:', appFolder
+);
+*/
